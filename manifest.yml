@@ -2,7 +2,7 @@
 # through the cloud interface. Only the name of the assistant is relevant and matches the 
 # name of the assistant targeted by the application.
 applications:
-- name: CalculatorAssistant
+- name: conv-201-158-calc
   command: npm start
   path: .
   memory: 256M
